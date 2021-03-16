@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Shop;
+use App\Dress;
 
 class HomeController extends Controller{
   public function index() {
